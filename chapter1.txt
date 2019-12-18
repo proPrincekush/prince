@@ -1,1 +1,1 @@
-hello prince, this is first version of your git repository.
+hello prince, this is branch  version of your git repository.
